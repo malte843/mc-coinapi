@@ -1,0 +1,6 @@
+jar.enabled = true;
+
+dependencies {
+    implementation(project(":Common"))
+    compileOnly(files("../libs/spigot-1.8.8.jar"))
+}

@@ -1,0 +1,10 @@
+# The amount of Coins a Player should get when he first joins. Set to 0.0 to disable
+initialCoins: 100.0
+
+# Change these to yours
+database:
+  address: localhost
+  port: 3306
+  database: coins
+  username: coins
+  password: 123

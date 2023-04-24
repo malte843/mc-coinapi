@@ -1,0 +1,5 @@
+rootProject.name = 'CoinAPI'
+include 'BungeeCord'
+include 'Spigot'
+include 'Common'
+

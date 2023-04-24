@@ -1,0 +1,5 @@
+name: CoinAPI
+author: malte
+main: de.malte.coinapi.CoinAPI
+version: 1.0
+description: A simple CoinAPI as dependency for other Plugins
